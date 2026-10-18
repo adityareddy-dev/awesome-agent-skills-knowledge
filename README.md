@@ -26,6 +26,8 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 
 ## Knowledge Work & Productivity
 
+- **[Softproof](https://github.com/adityareddy-dev/softproof)** — AI design studio for coding agents. `[claude-code]`
+
 - **[Google Workspace CLI (gws)](https://github.com/googleworkspace/cli)** — One CLI for all of Google Workspace: Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin. 40+ agent skills included, dynamically built from Google Discovery API. Built explicitly for AI agents doing knowledge work. `[claude-code]` `[gemini-cli]` `[any]` 🌟
 - **[Baserow](https://github.com/baserow/baserow)** — Open-source no-code database + AI agents + automations. GDPR/HIPAA/SOC2 compliant, self-hostable. Build structured data systems and automations for knowledge work — no code. `[any]`
 
@@ -65,6 +67,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 - **[500 AI Agents Use Cases](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — 500 AI agent use cases across healthcare, finance, education, and retail with open-source implementations. `[any]`
 
 ## Learning & Benchmarks
+
 
 - **[AI Agents for Beginners (Microsoft)](https://github.com/microsoft/ai-agents-for-beginners)** — 12-lesson curriculum for building AI agents. Key design patterns, agentic architectures, and practical implementations. `[any]`
 - **[Prompt Engineering Guide (DAIR.AI)](https://github.com/dair-ai/Prompt-Engineering-Guide)** — The reference guide for prompt engineering, context engineering, RAG, and AI agents. `[any]`

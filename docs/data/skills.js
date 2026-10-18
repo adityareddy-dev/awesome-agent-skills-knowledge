@@ -1,4 +1,24 @@
 const SKILLS = [
+  {
+    "id": "softproof",
+    "name": "Softproof",
+    "category": "knowledge-work",
+    "tags": [
+      "design",
+      "studio",
+      "social-cards",
+      "content"
+    ],
+    "description": "AI design studio for coding agents.",
+    "repo": "https://github.com/adityareddy-dev/softproof",
+    "stars": null,
+    "harnesses": [
+      "claude-code"
+    ],
+    "highlight": false,
+    "actrun": false,
+    "badge": null
+  },
   // ─── KNOWLEDGE WORK & PRODUCTIVITY ───────────────────────────────────────
   {
     id: "googleworkspace-cli",
